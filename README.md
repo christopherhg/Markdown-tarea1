@@ -24,7 +24,7 @@
 ---
 
 ``` javascript
-system.out.println('No encontraba las tildes alrevez, este es mi bloque de codigo marca acme')
+console.log('No encontraba las tildes alrevez, este es mi bloque de codigo marca acme')
 ```
 
 ``` python
@@ -42,11 +42,11 @@ print("No encontraba las tildes alrevez, este es mi bloque de codigo marca acme 
 
 <!--Lista de git-->
 
-* [] Dominar el mundo
-* [x]Subir esto a git
-* [] Crear una rama que se llame develop
-* [] Documentar que he apredido sobre la existencia de visual code
-* [] Ir a comer, tengo un poco de hambre
+* [ ] Dominar el mundo
+* [x] Subir esto a git
+* [ ] Crear una rama que se llame develop
+* [ ] Documentar que he apredido sobre la existencia de visual code
+* [ ] Ir a comer, tengo un poco de hambre
     * Terminar de ver "The sting" 
 
 ### Seria bueno recordarle a la gente que pueden abrir un terminal en el visual code si precionan:
