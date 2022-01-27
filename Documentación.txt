@@ -1,0 +1,10 @@
+Buenas, esta es mi documentación. 
+
+El curso esta bastante bueno pero 
+la parte de el remote origin me sacó canas verdes 
+porque se me escapó un ~ al final de mi link
+
+Fuera de eso me ayudó bastante el video e igual el otro de git
+
+La info del git pull no venia en el curso pero encontre un tutorial
+https://www.youtube.com/watch?v=8yXR1MJx9kM
