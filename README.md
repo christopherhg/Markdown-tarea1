@@ -24,7 +24,7 @@
 ---
 
 ``` javascript
-system.out.println('No encontraba las tildes alrevez, este es mi bloque de codigo marca acme')
+console.log('No encontraba las tildes alrevez, este es mi bloque de codigo marca acme')
 ```
 
 ``` python
